@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Smol77Kitty
 - 👀 I’m interested in anime, books, creating music and videogames 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C|C++
+- 💞️ I’m looking to collaborate on writing drivers for AMD
+- 📫 How to reach me 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a history teacher.
 
 <!---
 Smol77Kitty/Smol77Kitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
